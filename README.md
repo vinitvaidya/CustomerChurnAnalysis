@@ -1,4 +1,4 @@
-Dashboard for Telecom Customer Churn Analysis.
+Dashboard for Telecom Customer Churn Analysis created in Power BI.
 
 Datasets used:
 1)  https://www.kaggle.com/datasets/blastchar/telco-customer-churn
